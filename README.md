@@ -2,6 +2,6 @@
 
 网易云clash引用规则
 
-clash/clashr引用规则，不保证其他软件可用。
+clash/clashr引用规则，不保证其他软件可用（surge可用）。
 
 本规则来源于UnblockNeteaseMusic
